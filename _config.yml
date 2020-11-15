@@ -41,14 +41,10 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/carlvanr
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: instagram
+    url: http://instagram.com/cayennecarl
+  - title: linkedin
+    url: http://linkedin.com/carlvr
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +52,7 @@ address:
   - line: In your mind
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Thank you <a href="http://startbootstrap.com">Start Bootstrap</a> for the free to use, open source website template'
 
 # Build settings
 markdown: kramdown
