@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: safe.png
+img: TurnUpTheLoveMeter.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2019
+client: AT&T
+category: Creative direction, Event content capture and editing
+description: In 2019, AT&T put a greater focus on their LGBTQ+ outreach with the campaign "#TurnUpTheLove". As part of this initiative, I went to five events (PSIFF, Sundance, GLAAD Media Awards, GLAAD Media Awards, Utah Pride, and LOVELOUD Music Festival) and captured real-time IG story content for @AT&T, as well as oversaw premium in-feed content used organically and in paid media. 
 ---

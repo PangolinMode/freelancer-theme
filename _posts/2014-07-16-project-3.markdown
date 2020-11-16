@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: GP2-Week6-Twitter-AlvaroMemeStatus-720-JR.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2017-2018
+client: AT&T
+category: Creative Direction, Scripting, Copywriting, In-world Community Management
+description: In the second season of the AT&T Hello Lab web series "Guilty Party," I led creative direction for the paid media campaign, wrote vlogs and social media posts on behalf of multiple characters, and supported the show's organic presence with ideation, copywriting, and daily moderation of the show's LGBTQIA+-friendly Discord.
 ---
