@@ -2,8 +2,8 @@
 layout: default
 modal-id: 6
 date: 2014-07-14
-img: TurnUpTheLoveMeter.gif
-alt: TurnUpTheLoveMeter.png
+img: TurnUpTheLoveMeter.png
+alt: 
 project-date: 2019
 client: AT&T
 category: Creative direction, Event content capture and editing
