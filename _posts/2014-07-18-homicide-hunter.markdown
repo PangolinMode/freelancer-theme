@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: SquareHighlightJoeKenda.gif
-alt: SquareHighlightJoeKenda.png
+img: SquareHighlightJoeKenda.png
+alt: 
 project-date: 2019-
 client: DIRECTV
 category: Ongoing Social Content

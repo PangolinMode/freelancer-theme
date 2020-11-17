@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: KRM_beremembered_HBOMax.gif
-alt: KRM_beremembered_HBOMax.png
+img: KRM_beremembered_HBOMax.png
+alt: 
 project-date: June 2020
 client: HBO Max
 category: Creative Direction

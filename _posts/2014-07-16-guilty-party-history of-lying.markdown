@@ -2,8 +2,8 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: GP2-Week6-Twitter-AlvaroMemeStatus-720-JR.gif
-alt: GP2-Week6-Twitter-AlvaroMemeStatus-720-JR.png
+img: GP2-Week6-Twitter-AlvaroMemeStatus-720-JR.png
+alt: 
 project-date: 2017-2018
 client: AT&T
 category: Creative Direction, Scripting, Copywriting, In-world Community Management
