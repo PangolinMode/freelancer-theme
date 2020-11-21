@@ -11,6 +11,43 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                    <!--Adapted form from Formspree-->
+                    <form action="https://formspree.io/f/mvovqlkr" method="POST">
+                      <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                          <label>
+                            Name
+                            <input type="text" name="name" class="form-control">
+                            <p class="help-block text-danger"></p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                          <label>
+                            Email Address
+                            <input type="text" name="_replyto" class="form-control">
+                            <p class="help-block text-danger"></p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                          <label>
+                            Message
+                            <textarea name="message" class="form-control"></textarea>
+                            <p class="help-block text-danger"></p>
+                          </label>
+                        </div>
+                      </div>
+                      <br>
+                      <div class="row">
+                        <div class="form-group col-xs-12">
+                          <button type="submit" class="btn btn-success btn-lg">Send</button>
+                        </div>
+                      </div>
+                    </form>
+                    <!--Original form from template-->
                     <form action="https://formspree.io/f/mvovqlkr" method="POST" name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -51,9 +88,4 @@
                 </div>
             </div>
         </div>
-        <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-        <script>
-          window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-          formbutton("create", {action: "https://formspree.io/f/mvovqlkr"})
-        </script>
     </section>
